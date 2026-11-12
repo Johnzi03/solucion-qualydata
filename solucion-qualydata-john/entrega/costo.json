@@ -1,0 +1,8 @@
+{
+  "tiempo_segundos": 1122.55,
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "costo_usd": 0.0,
+  "hardware_usado": "Local CPU",
+  "almacenamiento": "Local DataFrames"
+}
